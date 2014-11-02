@@ -1,7 +1,13 @@
-theme-original
-==============
+Theme-Original with Data Science
+================================
 
-Fork this repo to use the original theme as a boilerplate.
+## About 
+
+This repo is forked from the original theme to be used as a boiler plate. The notes are to be published as soon as they are ready. Each note can handle voice files, image files, other attachments. Publishing happens by tagging #published and then synching notes with postach.io. 
+
+We have created this space to start getting familiar with communicating results. There is currently only one section to the web: **Blog**. We will add more topics, which are _Lab_ and _Design_. Perhaps IFTT recipes, which we definitely need to figure out as we go over the how-to and guide to getting started. 
+
+Data for the posts come from Evernote, Pocket, and Dropbox. (Plus, the team is growing something more interesting.) 
 
 ## Getting Started
 
@@ -26,4 +32,10 @@ gulp
 ## Need More Info? 
 
 Check out our [help documentation](http://help.postach.io/tag/theme-code) for more information on theming Postach.io sites.
+
+## Learning
+
+* To learn more about working with [Markdown](http://markdowntutorial.com/) check out the link and follow the refreshing exercises.  
+
+* These code editors can be used Notepad, Notepad++, Atom Editor, and Gedit. 
 

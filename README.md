@@ -39,3 +39,4 @@ Check out our [help documentation](http://help.postach.io/tag/theme-code) for mo
 
 * These code editors can be used Notepad, Notepad++, Atom Editor, and Gedit. 
 
+* Find out how to embed codes into the blog

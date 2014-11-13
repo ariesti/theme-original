@@ -7,7 +7,9 @@ This repo is forked from the original theme to be used as a boiler plate. The no
 
 We have created this space to start getting familiar with communicating results. There is currently only one section to the web: **Blog**. We will add more topics, which are _Lab_ and _Design_. Perhaps IFTT recipes, which we definitely need to figure out as we go over the how-to and guide to getting started. 
 
-Data for the posts come from Evernote, Pocket, and Dropbox. (Plus, the team is growing something more interesting.) 
+Data for the posts come from Evernote, Pocket, and Dropbox. (Plus, the team is growing something more interesting.)
+
+The site's name has been changed from Data Science to coconut this week. I think we are at __Version 0.8__ and we have about one more month to complete site map.  
 
 ## Getting Started
 

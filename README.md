@@ -9,7 +9,7 @@ We have created this space to start getting familiar with communicating results.
 
 Data for the posts come from Evernote, Pocket, and Dropbox. (Plus, the team is growing something more interesting.)
 
-The site's name has been changed from Data Science to coconut this week. I think we are at __Version 0.8__ and we have about one more month to complete site map.  
+The site's name has been changed from Data Science to coconut this week. I think we are at __Version 0.8__ and we have about one more month to complete site map. Tagging with Postach.io can be done to publish, create a static [page](http://help.postach.io/tips-on-tags-in-postach-io) (ex: About Us or Contact Us), and then gradually to build categories that we want (Labs, Design, etc.).
 
 ## Getting Started
 
@@ -41,4 +41,6 @@ Check out our [help documentation](http://help.postach.io/tag/theme-code) for mo
 
 * These code editors can be used Notepad, Notepad++, Atom Editor, and Gedit. 
 
-* Find out how to embed codes into the blog
+* Find out how to embed codes into the blog 
+
+* Create a very simple documentation file for ccnut
